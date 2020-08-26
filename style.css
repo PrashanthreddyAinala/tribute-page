@@ -1,0 +1,18 @@
+#main{
+    text-align: center;
+    background-color: gray;
+  }
+  
+  #image{
+    max-width: 100%;
+    height: auto;
+  }
+  
+  #tribute-info{
+    margin: 2% 30%;
+    font-size: 1.1em;
+  }
+  
+  #para{
+    font-size: 1.1em;
+  }
